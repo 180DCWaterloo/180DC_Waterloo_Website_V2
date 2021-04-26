@@ -1,8 +1,12 @@
 # To start this project and to run locally
 Ensure you become a collaborator for this project on the 180DC GitHub
+
 Git clone into your local machine
+
 cd 180DC-Waterloo-Website_v2/client
+
 npm i
+
 npm start
 
 
